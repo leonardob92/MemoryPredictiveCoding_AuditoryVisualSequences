@@ -1,7 +1,7 @@
 Shared and modality-specific brain networks underlying predictive coding of temporal sequences
 
 Matlab leading scripts for the paper entitled: "Shared and modality-specific brain networks underlying predictive coding of temporal sequences".
-Bonetti, L., Fernández-RUbio, G., Rosso, M., Carlomagno, F., Malvaso, A., Greco, A., Kringelbach, M.L., Vuust, P. (2025). BiorXiv.
+Bonetti, L., Fernández-Rubio, G., Rosso, M., Carlomagno, F., Malvaso, A., Greco, A., Kringelbach, M.L., Vuust, P. (2025). BiorXiv.
 
 Additional relevant codes and functions are available here: https://github.com/leonardob92/LBPD-1.0.git
 
