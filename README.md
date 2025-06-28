@@ -1,1 +1,10 @@
-# MemoryPredictiveCoding_AuditoryVisualSequences
+Shared and modality-specific brain networks underlying predictive coding of temporal sequences
+
+Matlab leading scripts for the paper entitled: "Shared and modality-specific brain networks underlying predictive coding of temporal sequences".
+Bonetti, L., Fernández-RUbio, G., Rosso, M., Carlomagno, F., Malvaso, A., Greco, A., Kringelbach, M.L., Vuust, P. (2025). BiorXiv.
+
+Additional relevant codes and functions are available here: https://github.com/leonardob92/LBPD-1.0.git
+
+Abstract
+Predictive coding suggests that the brain continuously generates and updates models to anticipate incoming sensory input. While auditory and visual modalities have been studied independently in this context, direct comparisons using matched paradigms are scarce. Here, we employed magnetoencephalography (MEG) to investigate how the brain of 83 participants encodes and consciously recognises temporally unfolding sequences that acquire Gestalt-like structure over time, a feature rarely addressed in cross-modal research. Participants memorised matched auditory and visual sequences with coherent temporal structure and later identified whether test sequences were familiar or novel. Multivariate decoding revealed robust discrimination between the brain mechanisms underlying encoding and recognition of memorised and novel sequences, with sustained temporal generalisation in the auditory domain and time-specific responses in the visual domain. Using the BROAD-NESS pipeline, we identified modality-specific and supramodal brain networks. Auditory memory engaged auditory cortex, cingulate gyrus, and hippocampus, whereas visual memory involved orbitofrontal cortex and visual areas. Notably, both modalities recruited a shared network including hippocampus and medial cingulate during recognition. These findings provide compelling evidence for distinct and shared predictive memory mechanisms across sensory systems, advancing our understanding of how the brain integrates and evaluates temporally structured, Gestalt-like information.
+
